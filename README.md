@@ -4,7 +4,7 @@ Build project template for starter.
 ## Java Projects
 ### Spring Framework
 
-- [Micro-service Full](./java/microservice-full)
+- [Micro-service Full](./java/microservices-full)
 
 ### Sprint Boot
 ### Others
